@@ -9,3 +9,4 @@ Here goes my notes and excercises for the ´Diplomado de Aplicaciones móviles i
 -Data Types
 -git
 -Class and Structures
+-Functions and Methods
